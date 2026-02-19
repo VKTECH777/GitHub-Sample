@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class BinarySearch {
 public static void main(String[] args) {
-	int [] a= {10,30,80,60,50,70,90,40,20,100};
+	int [] a= {0,10,30,80,60,50,70,90,40,20,100};
 	int count=0;
 	int low=0;
 	int key=90;
